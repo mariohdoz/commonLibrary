@@ -7,7 +7,7 @@ export * from "./errors/bad-request.errors";
 export * from "./errors/not-authorize.errors"; 
 
 // Middlewares
-export * from './middlewares/validator.middlewares';
+export * as Validator from './middlewares/validator.middlewares';
 export * from './middlewares/error-handler.middlewares';
 export * from './middlewares/current-user.middlewares';
 export * from './middlewares/require-auth.middlewares';
