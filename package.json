@@ -1,6 +1,6 @@
 {
   "name": "@hdozdev/common",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Commons tools",
   "main": "./build/index.jsa",
   "types": "./build/index.d.ts",
