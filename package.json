@@ -1,6 +1,6 @@
 {
   "name": "@hdozdev/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.jsa",
   "types": "./build/index.d.ts",
